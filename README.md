@@ -22,7 +22,7 @@ You are Pip the mouse. Eat every cheese crumb in the maze while the cats chase y
 3. Go to **Settings → Pages**.
 4. Under **Build and deployment**, set **Source** to **Deploy from a branch**, pick the **main** branch and the **/ (root)** folder, then click **Save**.
 5. Wait a minute or two, then refresh the page. GitHub shows your link:
-   `https://YOUR-USERNAME.github.io/pantry-dash/`
+   `https://mdhasibul35.github.io/pantry-dash/`
 
 Share that link and anyone can play, on any device.
 
